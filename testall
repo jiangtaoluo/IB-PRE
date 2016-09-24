@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Date: Sep 23, 2016
+# Author: Jiangtao Luo
+# To run algorithm and data processing all in one
+
+./test_fibre.py
+./test_ible.py
+./test_hibre.py
+

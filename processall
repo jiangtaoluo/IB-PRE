@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo
+./process.py ible_4096.log ible.out
+./process.py hibre_4096.log hibre.out
+./process.py fibre_4096.log fibre.out
